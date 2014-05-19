@@ -1,0 +1,342 @@
+# depslib dependency file v1.0
+1384076919 source:/home/straight/Documents/lex_005/Types.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"Types.h"
+
+1384085725 
+
+1384085266 source:/home/straight/Documents/lex_005/main.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+	"FileUtility.h"
+	"SymTable.h"
+
+1384083255 h"
+
+1384068795 /home/straight/Documents/lex_005/Types.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1384048092 /home/straight/Documents/lex_005/CharTypes.h
+
+1384051490 /home/straight/Documents/lex_005/TokenList.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1384049359 source:/home/straight/Documents/lex_005/TokenList.cpp
+	"TokenList.h"
+
+1384079646 .h"
+
+1384049712 source:/home/straight/Documents/lex_005/Utility.cpp
+	"Utility.h"
+
+1384049712 "
+
+1384049986 /home/straight/Documents/lex_005/Utility.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+	"TokenList.h"
+
+1384081367 /home/straight/Documents/lex_005/FileUtility.h
+	<iostream>
+	<deque>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+
+1384071279 source:/home/straight/Documents/lex_005/FileUtility.cpp
+	<iostream>
+	<sstream>
+	<deque>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileUtility.h"
+
+1384088532 ty.h"
+
+1384079646 source:/home/straight/Documents/lex_005/Structure.cpp
+	<iostream>
+	<deque>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+	"Structure.h"
+
+1384079575 /home/straight/Documents/lex_005/Structure.h
+	<iostream>
+	<deque>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+
+1384083255 source:/home/straight/Documents/lex_005/SymTable.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SymTable.h"
+
+1384083100 /home/straight/Documents/lex_005/SymTable.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1384071279 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/FileUtility.cpp
+	<iostream>
+	<sstream>
+	<deque>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileUtility.h"
+
+1384081367 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/FileUtility.h
+	<iostream>
+	<deque>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+
+1384068795 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/Types.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1384083255 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/SymTable.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SymTable.h"
+
+1384083100 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/SymTable.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1384076919 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/Types.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"Types.h"
+
+1384085266 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/main.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+	"FileUtility.h"
+	"SymTable.h"
+
+1384085994 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/map.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"map.h"
+
+1384085725 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/map.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1384088532 source:c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\fileutility.cpp
+	<iostream>
+	<sstream>
+	<deque>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileUtility.h"
+
+1384081367 c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\fileutility.h
+	<iostream>
+	<deque>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+
+1384068795 c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\types.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1384085266 source:c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\main.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+	"FileUtility.h"
+	"SymTable.h"
+
+1384083100 c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\symtable.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1384085994 source:c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\map.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"map.h"
+
+1384085725 c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\map.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1384083255 source:c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\symtable.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SymTable.h"
+
+1384076919 source:c:\documents and settings\meuser\my documents\dropbox\projects\compiler\lex\lex_005\types.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"Types.h"
+
+1384088532 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/FileUtility.cpp
+	<iostream>
+	<sstream>
+	<deque>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FileUtility.h"
+
+1384081367 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/FileUtility.h
+	<iostream>
+	<deque>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+
+1384068795 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/Types.h
+	<iostream>
+	<string>
+	<stdio.h>
+
+1384083255 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/SymTable.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SymTable.h"
+
+1384083100 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/SymTable.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1384076919 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/Types.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"Types.h"
+
+1384085266 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/main.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"Types.h"
+	"FileUtility.h"
+	"SymTable.h"
+
+1384085994 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/map.cpp
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+	"map.h"
+
+1384085725 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/map.h
+	<iostream>
+	<list>
+	<deque>
+	<vector>
+	<stdio.h>
+	<string.h>
+
+1386232740 source:/home/straight/Dropbox/Projects/Compiler/lex/lex_005/Tree.cpp
+	<deque>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tree.h"
+
+1387597262 /home/straight/Dropbox/Projects/Compiler/lex/lex_005/Tree.h
+	<deque>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="FileUtility.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="5526" topLine="140" />
+	</File>
+	<File name="FileUtility.h" open="1" top="0" tabpos="4">
+		<Cursor position="243" topLine="15" />
+	</File>
+	<File name="SymTable.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="55" topLine="63" />
+	</File>
+	<File name="SymTable.h" open="1" top="0" tabpos="6">
+		<Cursor position="73" topLine="0" />
+	</File>
+	<File name="Tree.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Tree.h" open="1" top="0" tabpos="7">
+		<Cursor position="146" topLine="8" />
+	</File>
+	<File name="Types.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="15" />
+	</File>
+	<File name="Types.h" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1921" topLine="49" />
+	</File>
+</CodeBlocks_layout_file>
